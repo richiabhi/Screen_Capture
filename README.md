@@ -1,7 +1,7 @@
 # Screen_Capture
----> A Screen Recording/Capturing Software built using Python \n
----> Records in the highest quality possible (varies from system to system)
----> Doesn't use much RAM
+---> 1. A Screen Recording/Capturing Software built using Python
+---> 2. Records in the highest quality possible (varies from system to system)
+---> 3. Doesn't use much RAM
 
 
 # Note : 
